@@ -1,3 +1,13 @@
+![header](./images/main.jpg)
+
+<h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
+<p align='center'>
+
+<a href="https://yoons-dev-review.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF9E0F?style=flat-square&logo=Storyblok&logoColor=white" width = 180px height = 30px/></a>
+<a href="https://www.instagram.com/sh.yoon._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
+<a href="https://blog.naver.com/safy1591" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
+<a href="https://www.facebook.com/yoonseung1994" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
+
 # 👻 WELCOME TO YoonSeung's DEVlog 🎉
 
 윤승환의 github 입니다
